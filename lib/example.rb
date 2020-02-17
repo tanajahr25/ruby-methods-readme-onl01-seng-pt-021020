@@ -11,3 +11,4 @@ puts phrase
 puts phrase
 puts phrase
 puts phrase
+def = say_phrase
